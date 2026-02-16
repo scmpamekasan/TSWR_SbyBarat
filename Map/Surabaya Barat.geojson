@@ -6793,7 +6793,7 @@
         ]
       }
     },
-    {
+   {
       "type": "Feature",
       "properties": {
         "kd_propinsi": "35",
@@ -7937,7 +7937,11 @@
                 0.0
               ]
             ]
-    {
+          ]
+        ]
+      }
+    },
+    {  
       "type": "Feature",
       "properties": {
         "kd_propinsi": "35",
